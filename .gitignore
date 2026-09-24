@@ -1,0 +1,9 @@
+git init.local/
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+.local/
+__pycache__/
+*.pyc
