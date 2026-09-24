@@ -17,11 +17,11 @@ Open:
 
     http://127.0.0.1:8787
 
-Run the tests:
+I ran:
 
     python -m unittest discover -s tests -v
 
-Expected result: all tests pass.
+The final test run completed successfully. The test suite verifies invoice import, payment import, seed repeatability, invoice status filtering, export output, and payment matching.
 
 Reset the demo data when needed:
 
